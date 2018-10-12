@@ -1,2 +1,7 @@
 This is my first test!
-This change only in brach master!!
+<<<<<<< HEAD
+This change only in branch !!
+=======
+This change only in branch !!
+
+>>>>>>> newb1
